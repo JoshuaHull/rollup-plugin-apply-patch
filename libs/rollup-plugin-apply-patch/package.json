@@ -13,6 +13,8 @@
     "./src/rollup-plugin-apply-patch.d.ts",
     "./src/rollup-plugin-apply-patch.js"
   ],
+  "types": "./src/rollup-plugin-apply-patch.d.ts",
+  "main": "./src/rollup-plugin-apply-patch.js",
   "exports": {
     "types": "./src/rollup-plugin-apply-patch.d.ts",
     "import": "./src/rollup-plugin-apply-patch.js"
