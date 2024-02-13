@@ -6,6 +6,10 @@ Rollup plugin which runs the `applyPatch` function from [`diff`](https://github.
 
 I need to modify some code I'm running with Vite, but don't want to actually make changes to the files, maintain a branch, etc.
 
+## Installation
+
+`npm i -D rollup-plugin-apply-patch`
+
 ## Usage
 
 Check [the example app](./apps/example/) for a working example.
