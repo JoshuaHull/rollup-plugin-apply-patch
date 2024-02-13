@@ -3,7 +3,27 @@
   "version": "0.0.0",
   "private": false,
   "type": "module",
+  "license": "MIT",
+  "author": {
+    "email": "josh.hull.w@gmail.com",
+    "name": "Joshua Hull",
+    "url": "https://github.com/JoshuaHull"
+  },
+  "files": [
+    "./src/rollup-plugin-apply-patch.d.ts",
+    "./src/rollup-plugin-apply-patch.js"
+  ],
+  "exports": {
+    "types": "./src/rollup-plugin-apply-patch.d.ts",
+    "import": "./src/rollup-plugin-apply-patch.js"
+  },
   "scripts": {
     "build": ""
+  },
+  "dependencies": {
+    "diff": "~5.1.0"
+  },
+  "devDependencies": {
+    "rollup": "~4.10.0"
   }
 }

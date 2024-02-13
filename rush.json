@@ -18,8 +18,13 @@
   ],
   "projects": [
     {
+      "packageName": "example",
+      "projectFolder": "apps/example"
+    },
+    {
       "packageName": "rollup-plugin-apply-patch",
-      "projectFolder": "libs/rollup-plugin-apply-patch"
+      "projectFolder": "libs/rollup-plugin-apply-patch",
+      "shouldPublish": true
     }
   ]
 }
