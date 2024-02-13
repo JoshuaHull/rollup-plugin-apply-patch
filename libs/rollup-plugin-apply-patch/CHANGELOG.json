@@ -1,0 +1,17 @@
+{
+  "name": "rollup-plugin-apply-patch",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "tag": "rollup-plugin-apply-patch_v1.0.0",
+      "date": "Tue, 13 Feb 2024 12:04:59 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "prepare to publish rollup-plugin-apply-patch"
+          }
+        ]
+      }
+    }
+  ]
+}
