@@ -2,6 +2,21 @@
   "name": "rollup-plugin-apply-patch",
   "entries": [
     {
+      "version": "1.0.1",
+      "tag": "rollup-plugin-apply-patch_v1.0.1",
+      "date": "Tue, 13 Feb 2024 12:14:05 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "fix: imported diff type from wrong package"
+          },
+          {
+            "comment": "fix: add types and main fields to package.json"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.0",
       "tag": "rollup-plugin-apply-patch_v1.0.0",
       "date": "Tue, 13 Feb 2024 12:04:59 GMT",
