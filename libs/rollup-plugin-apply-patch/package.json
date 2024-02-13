@@ -24,6 +24,7 @@
     "diff": "~5.1.0"
   },
   "devDependencies": {
-    "rollup": "~4.10.0"
+    "rollup": "~4.10.0",
+    "@types/diff": "~5.0.9"
   }
 }

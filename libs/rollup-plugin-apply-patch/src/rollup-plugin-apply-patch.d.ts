@@ -1,5 +1,5 @@
 import { Plugin } from "rollup";
-import type { ApplyPatchOptions } from "diff";
+import type { ApplyPatchOptions } from "@types/diff";
 
 export type RollupPluginApplyPatchOptions = {
   debug?: boolean;
